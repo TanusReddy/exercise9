@@ -1,2 +1,1 @@
-# exercise9
-Repository for practicing pull requests
+#Pull Request practice\n\n This repository is for practicing the GitHub pull request workflow.
